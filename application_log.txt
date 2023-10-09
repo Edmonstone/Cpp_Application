@@ -1,0 +1,8 @@
+[2023-10-09 21:50:22] Starting the Salary Management Application
+[2023-10-09 21:50:22] Exiting the Salary Management Application
+[2023-10-09 21:54:33] Starting the Salary Management Application
+[2023-10-09 21:54:33] Exiting the Salary Management Application
+[2023-10-09 21:54:39] Starting the Salary Management Application
+[2023-10-09 21:54:39] Exiting the Salary Management Application
+[2023-10-09 21:54:43] Starting the Salary Management Application
+[2023-10-09 21:54:43] Exiting the Salary Management Application
